@@ -47,3 +47,4 @@ gpytranslate
 cloudscraper
 carbonnow
 pretty_errors
+spamwatch==0.3.0
